@@ -1,0 +1,15 @@
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/bin/Debug/net8.0/recap metoder, klasser og datastrukturer
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/bin/Debug/net8.0/recap metoder, klasser og datastrukturer.deps.json
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/bin/Debug/net8.0/recap metoder, klasser og datastrukturer.runtimeconfig.json
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/bin/Debug/net8.0/recap metoder, klasser og datastrukturer.dll
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/bin/Debug/net8.0/recap metoder, klasser og datastrukturer.pdb
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/obj/Debug/net8.0/recap metoder, klasser og datastrukturer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/obj/Debug/net8.0/recap metoder, klasser og datastrukturer.AssemblyInfoInputs.cache
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/obj/Debug/net8.0/recap metoder, klasser og datastrukturer.AssemblyInfo.cs
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/obj/Debug/net8.0/recap metoder, klasser og datastrukturer.csproj.CoreCompileInputs.cache
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/obj/Debug/net8.0/recap metoder, klasser og datastrukturer.sourcelink.json
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/obj/Debug/net8.0/recap metoder, klasser og datastrukturer.dll
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/obj/Debug/net8.0/refint/recap metoder, klasser og datastrukturer.dll
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/obj/Debug/net8.0/recap metoder, klasser og datastrukturer.pdb
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/obj/Debug/net8.0/recap metoder, klasser og datastrukturer.genruntimeconfig.cache
+/Users/Sigrid/Documents/C#/recap metoder, klasser og datastrukturer/obj/Debug/net8.0/ref/recap metoder, klasser og datastrukturer.dll
